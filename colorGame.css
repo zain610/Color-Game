@@ -1,0 +1,25 @@
+body {
+	background-color: #232323;
+}
+.square {
+	width: 30%;
+	background-color: skyblue;
+	float: left;
+	padding-bottom: 30%;
+	margin:1.66%;
+}
+
+#container { 
+	/*margin setting below will center items*/
+	margin: 0 auto;
+	max-width: 650px;
+}
+h1{
+	color: white;
+}
+#stripe{
+	background: white;
+	height: 30px;
+	text-align: center;
+	color: black;
+}
